@@ -1,0 +1,5 @@
+tickers:
+  - JPM
+  - BAC
+  - GS
+days_to_analyze: 365
