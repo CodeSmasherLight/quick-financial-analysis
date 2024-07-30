@@ -1,6 +1,6 @@
-# Financial Analysis Project
+# Quick Financial Analyzer
 
-This project performs a basic financial analysis on selected stock tickers, focusing on JPMorgan Chase and its competitors.
+This analyzer(code) performs a basic financial analysis on selected stock tickers, focusing on JPMorgan Chase and its competitors.
 
 ## Features
 - Fetches historical stock data
